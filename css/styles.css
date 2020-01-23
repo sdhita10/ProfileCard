@@ -1,0 +1,54 @@
+body{
+	color: black;
+	margin: 0px;
+	padding: 0px;
+}
+#main-container{
+	width: 250px;
+	height: 450px;
+	background: #FFF;
+	border-radius: 2px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 0px 1px 10px 1px black;
+
+
+}
+h1, h3 {
+	margin: 0px 0px 10px 10px;
+	color: #000;
+}
+.main-image{
+	width: 220px;
+	margin: 0px 0px 10px 10px;
+
+
+}
+.headshot-image{
+	width: 20px;
+	border-radius: 50%;
+	position: relative;
+	top:5px;
+	float: left;
+	left: 10px;
+	margin: 0px 0px 10px 10px;
+
+}
+.username{	
+	
+}
+.username-username{
+	font-style: bold;
+	float: left;
+	margin-left:15px;
+	left: 20px;
+}
+.username-text{
+	font-style: italic;
+	font-size:12px;
+	margin-left:15px;
+	left: 20px;
+}
+
