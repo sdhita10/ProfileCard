@@ -36,17 +36,18 @@ h1, h3 {
 	margin: 0px 0px 10px 10px;
 
 }
+.user-profile{
+	display: inline-flex;
+}
 
 .username-username{
 	font-style: bold;
-	float: left;
 	margin-left:15px;
 	left: 20px;
 }
 .username-text{
 	font-style: italic;
 	font-size:12px;
-	margin-left:15px;
-	left: 20px;
+	margin: 20px 0px 0px -60px;
 }
 
